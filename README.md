@@ -64,4 +64,7 @@ This project is a RESTful API built using Laravel that provides CRUD operations 
 | PUT    | `/api/posts/{id}` | Update an existing post |
 | DELETE | `/api/posts/{id}` | Delete a post          |
 
+## Project Source
+This project was developed with the help of materials and guidance from SANTRIKODING. Many thanks to SANTRIKODING for the excellent materials and guidance. This project would not have been possible without the knowledge and resources provided.
 
+https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-11
