@@ -64,16 +64,4 @@ This project is a RESTful API built using Laravel that provides CRUD operations 
 | PUT    | `/api/posts/{id}` | Update an existing post |
 | DELETE | `/api/posts/{id}` | Delete a post          |
 
-## Example Usage
-### Fetch All Posts
-```sh
-curl -X GET http://localhost:8000/api/posts
-```
-### Create a New Post
-```sh
-curl -X POST http://localhost:8000/api/posts \
-     -H "Content-Type: multipart/form-data" \
-     -F "image=@path/to/image.jpg" \
-     -F "title=Sample Post" \
-     -F "content=This is a sample post."
-```
+
